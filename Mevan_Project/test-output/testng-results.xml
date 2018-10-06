@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="161" started-at="2018-10-06T05:15:31Z" finished-at="2018-10-06T05:15:31Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="161" started-at="2018-10-06T05:15:31Z" finished-at="2018-10-06T05:15:31Z">
+      <class name="Mevan_Project.Mevan_Project.Login">
+        <test-method status="PASS" signature="CreateAccount()[pri:0, instance:Mevan_Project.Mevan_Project.Login@193948d]" name="CreateAccount" duration-ms="71" started-at="2018-10-06T10:45:31Z" finished-at="2018-10-06T10:45:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateAccount -->
+        <test-method status="PASS" signature="UpdateAccount()[pri:0, instance:Mevan_Project.Mevan_Project.Login@193948d]" name="UpdateAccount" duration-ms="3" started-at="2018-10-06T10:45:31Z" finished-at="2018-10-06T10:45:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UpdateAccount -->
+      </class> <!-- Mevan_Project.Mevan_Project.Login -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
